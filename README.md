@@ -10,6 +10,6 @@
 
 --- Java script code refer /JS/script.js ---
 
---- website link [click here](http://127.0.0.1:5500/index.html)
+--- website link [click here] (http://127.0.0.1:5500/index.html)
 
 --- Note : On web page "Random" button is available click an wait few second the random images will be displayed every click ---
